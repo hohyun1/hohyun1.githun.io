@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 # google_analytics: G-DTM6KMTZJP
 title: My Page
-email: your-email@example.com 
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mintae's World
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: minima 
 # asset_url: /assets/
 plugins:
   - jekyll-feed
